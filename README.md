@@ -1,7 +1,7 @@
 # CODEVEDX
 Internship Projects and Related Files
 # This Internship is mainly based on Cloud Computing
-## **There are mainly Three Projects are Available in this internship**
+## **There are mainly Three Projects are Available in this internship Which is Mainly Related To AWS**
 - Serverless Cloud Application Deployment
 - Cloud Storage & BackUp Management
 -
