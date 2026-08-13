@@ -5,4 +5,3 @@ Internship Projects and Related Files
 - Serverless Cloud Application Deployment
 - Cloud Storage & BackUp Management (S3 Bucket)
 - 
- 
