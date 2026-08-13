@@ -1,5 +1,5 @@
 # CODEVEDX (Internship)
-Internship tasks and Related Files
+Internship Tasks and Related Files
 # This Internship is mainly based on Cloud Computing
 ## **There are Three Projects**
 - Serverless Cloud Application Deployment Using (EC2) 
