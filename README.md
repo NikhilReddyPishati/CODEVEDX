@@ -11,4 +11,4 @@ Internship Tasks and Related Files
 # About Tasks
 - ## Task -1 ##
 - ## **Serverless Cloud Application**
-  
+- Launching a serverless cloud in AWS using EC2 anf Lambda
