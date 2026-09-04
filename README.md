@@ -6,8 +6,11 @@ Internship Tasks and Related Files
 - Cloud Infrastructure Deployment
 - Cloud Storage and Backup
 - Serverless Cloud Application Deployment
-- 
+ 
 # About Tasks
-- ## Task -1 ##
+- ## Task -3 ##
 - ## **Serverless Cloud Application**
-- Launching a serverless cloud in AWS using EC2 anf Lambda
+- Launching a serverless cloud in AWS using Lambda
+
+-## Task -2 ##
+## **Cloud Storage and Backup**
