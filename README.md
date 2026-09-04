@@ -13,7 +13,7 @@ Internship Tasks and Related Files
 - Launched a serverless cloud in AWS using Lambda
 
 - ## Task -2 ##
-## **Cloud Storage and Backup**
+- ## **Cloud Storage and Backup**
 - Created S3 Bucket and used it for storage and Backup
 
 - ## Task -1 ##
