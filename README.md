@@ -3,9 +3,7 @@ Internship Tasks and Related Files
 # This Internship is mainly based on Cloud Computing
 ## **There are Three Projects**
 - Cloud Infrastructure Deployment
-
-
-
+- Cloud Storage and Backup
 # About Tasks
 - ## Task -1 ##
 - ## **Serverless Cloud Application**
