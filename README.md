@@ -4,6 +4,7 @@ Internship Tasks and Related Files
 ## **There are Three Projects**
 - Cloud Infrastructure Deployment
 - Cloud Storage and Backup
+- Serverless Cloud Application Deployment
 # About Tasks
 - ## Task -1 ##
 - ## **Serverless Cloud Application**
