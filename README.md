@@ -14,3 +14,4 @@ Internship Tasks and Related Files
 
 - ## Task-2 ##
 ## **Cloud Storage and Backup**
+- created S3 Bucket and used it for storage and Backup
