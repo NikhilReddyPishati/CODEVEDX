@@ -12,5 +12,5 @@ Internship Tasks and Related Files
 - ## **Serverless Cloud Application**
 - Launching a serverless cloud in AWS using Lambda
 
--**## Task -2 ##**
+-## Task-2
 ## **Cloud Storage and Backup**
