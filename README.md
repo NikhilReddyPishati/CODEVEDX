@@ -1,7 +1,7 @@
 # CODEVEDX (Internship)
 Internship Tasks and Related Files
 
-# This Internship is mainly based on Cloud Computing
+# This Internship is mainly based on Cloud Computing And 
 ## **There are Three Projects / Tasks**
 - Cloud Infrastructure Deployment
 - Cloud Storage and Backup
