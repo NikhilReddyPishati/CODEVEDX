@@ -15,7 +15,7 @@ Internship Tasks and Related Files
 ---------------------------------------------------------------------------------------------
 - ## Task -2 ##
 - ## **Cloud Storage and Backup**
-- Created S3 Bucket and used it for storage and Backup in Amazon
+- Created S3 Bucket and used it for storage and Backup in Amazon Web services
 ---------------------------------------------------------------------------------------------
 - ## Task -1 ##
 - ## **Cloud Infrastructure Deployment**
