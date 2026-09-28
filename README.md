@@ -19,4 +19,4 @@ Internship Tasks and Related Files
 ---------------------------------------------------------------------------------------------
 - ## Task -1 ##
 - ## **Cloud Infrastructure Deployment**
-- Deploy a secure,scalable virtual server hosting an automated web server in the cloud
+- Deploy a secure,scalable virtual server hosting an automated web server in the cloud in Amazon
