@@ -11,7 +11,7 @@ Internship Tasks and Related Files
 # About Tasks
 - ## Task -3 ##
 - ## **Serverless Cloud Application**
-- Launched a serverless cloud in Amazon Web Services using Lambda in a AWS Free Tier Account 
+- Launched a serverless cloud in Amazon Web Services(AWS) using Lambda in a AWS Free Tier Account 
 ---------------------------------------------------------------------------------------------
 - ## Task -2 ##
 - ## **Cloud Storage and Backup**
