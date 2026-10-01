@@ -9,7 +9,7 @@ Internship Tasks and Related Files
 - Serverless Cloud Application Deployment
  
 # About Tasks
-- ## Task -3 ##
+- ## Task - 3 ##
 - ## **Serverless Cloud Application**
 - Launched a Serverless cloud in Amazon Web Services(AWS) using Lambda in a AWS Free Tier Account 
 ---------------------------------------------------------------------------------------------
